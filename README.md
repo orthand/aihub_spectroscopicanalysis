@@ -6,14 +6,14 @@ Different measurement techniques in the field of material science generate a lar
 
 ## References
 ### Classification / Identification
-* Schuetzke et al., 2021, Enhancing deep-learning training for phase identification in powder X-ray diffractograms
-* Szymanski et al., 2021, Probabilistic Deep Learning Approach to Automate the Interpretation of Multi-phase Diffraction Spectra
+* Schuetzke et al., 2021, Enhancing deep-learning training for phase identification in powder X-ray diffractograms https://doi.org/10.1107/S2052252521002402
+* Szymanski et al., 2021, Probabilistic Deep Learning Approach to Automate the Interpretation of Multi-phase Diffraction Spectra https://doi.org/10.1021/acs.chemmater.1c01071
 
 ### Denoising and Baseline Correction
-* Gebrekidan et al., 2021, Refinement of spectra using a deep neural network: Fully automated removal of noise and background
+* Gebrekidan et al., 2021, Refinement of spectra using a deep neural network: Fully automated removal of noise and background https://doi.org/10.1002/jrs.6053
 
 ### In-situ High-Throughput
-* Maffettone et al., 2021, Crystallography companion agent for high-throughput materials discovery
+* Maffettone et al., 2021, Crystallography companion agent for high-throughput materials discovery https://doi.org/10.1038/s43588-021-00059-2
 
 ### 2D XRD Analysis
-* Purushottam Raj Purohit et al., 2022, LaueNN: neural-network-based hkl recognition of Laue spots and its application to polycrystalline materials
+* Purushottam Raj Purohit et al., 2022, LaueNN: neural-network-based hkl recognition of Laue spots and its application to polycrystalline materials https://doi.org/10.1107/S1600576722004198
